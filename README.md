@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm [Srimen Selvakumaran]</h1>
-<h3 align="center">[Integrated Mathematics & Computer Science] student at [Ontario Tech University] who likes building full-stack systems with a greater impact.</h3>
+<h3 align="center">[Integrated Mathematics & Computer Science] student at [Ontario Tech University] who likes building full-stack applications with a greater impact.</h3>
 
 ---
 
